@@ -1,0 +1,6 @@
+{
+  "name": "LabLink",
+  "description": "Campus laboratory equipment discovery, smart clash-free booking, fair AI-assisted conflict resolution, and utilisation analytics across departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

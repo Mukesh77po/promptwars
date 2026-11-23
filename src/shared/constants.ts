@@ -1,0 +1,9 @@
+export const OPEN_HOUR = 9;
+export const CLOSE_HOUR = 17;
+export const HOURS_PER_DAY = CLOSE_HOUR - OPEN_HOUR;
+export const MAX_BOOKING_HOURS = 4;
+export const WEEKLY_FAIR_SHARE_HOURS = 10;
+export const BOOKING_HORIZON_DAYS = 21;
+export const FINE_PER_HOUR = 50;
+export const FINE_CAP = 500;
+export const OVERDUE_STRIKE_PENALTY = 0.15;
